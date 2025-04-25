@@ -1,0 +1,50 @@
+{
+  "python": [
+    { "ar": "مقدمة:\nبايثون لغة سهلة ومناسبة للمبتدئين.", "en": "Introduction:\nPython is beginner-friendly." },
+    { "ar": "المتغيرات:\nage = 25", "en": "Variables:\nage = 25" },
+    { "ar": "الطباعة:\nprint(\"مرحبا\")", "en": "Printing:\nprint(\"Hello\")" },
+    { "ar": "الشروط:\nif age > 18:", "en": "Conditions:\nif age > 18:" },
+    { "ar": "الحلقات:\nfor i in range(5):", "en": "Loops:\nfor i in range(5):" },
+    { "ar": "الدوال:\ndef hello():", "en": "Functions:\ndef hello():" },
+    { "ar": "القوائم:\nfruits = [\"apple\", \"banana\"]", "en": "Lists:\nfruits = [\"apple\", \"banana\"]" },
+    { "ar": "القواميس:\nuser = {\"name\": \"Ali\"}", "en": "Dictionaries:\nuser = {\"name\": \"Ali\"}" },
+    { "ar": "الاستثناءات:\ntry...except", "en": "Exceptions:\ntry...except" },
+    { "ar": "الاستيراد:\nimport math", "en": "Importing:\nimport math" }
+  ],
+  "javascript": [
+    { "ar": "مقدمة:\nJavaScript تضيف تفاعلية للمواقع.", "en": "Introduction:\nJavaScript adds interactivity to websites." },
+    { "ar": "المتغيرات:\nlet age = 25;", "en": "Variables:\nlet age = 25;" },
+    { "ar": "الطباعة:\nconsole.log(\"مرحبا\")", "en": "Printing:\nconsole.log(\"Hello\")" },
+    { "ar": "الشروط:\nif (age > 18) { }", "en": "Conditions:\nif (age > 18) { }" },
+    { "ar": "الحلقات:\nfor (let i = 0; i < 5; i++)", "en": "Loops:\nfor (let i = 0; i < 5; i++)" },
+    { "ar": "الدوال:\nfunction greet() {}", "en": "Functions:\nfunction greet() {}" },
+    { "ar": "المصفوفات:\nlet fruits = [\"apple\", \"banana\"];", "en": "Arrays:\nlet fruits = [\"apple\", \"banana\"];" },
+    { "ar": "الكائنات:\nlet user = {name: \"Ali\"};", "en": "Objects:\nlet user = {name: \"Ali\"};" },
+    { "ar": "الأحداث:\ndocument.onclick = function() {}", "en": "Events:\ndocument.onclick = function() {}" },
+    { "ar": "DOM:\ndocument.getElementById(\"id\")", "en": "DOM:\ndocument.getElementById(\"id\")" }
+  ],
+  "html": [
+    { "ar": "مقدمة:\nHTML تبني هيكل الموقع.", "en": "Introduction:\nHTML builds the site structure." },
+    { "ar": "العنصر الأساسي:\n<html>", "en": "Main element:\n<html>" },
+    { "ar": "العناوين:\n<h1>عنوان</h1>", "en": "Headings:\n<h1>Title</h1>" },
+    { "ar": "الفقرة:\n<p>نص</p>", "en": "Paragraph:\n<p>Text</p>" },
+    { "ar": "الروابط:\n<a href=\"url\">رابط</a>", "en": "Links:\n<a href=\"url\">Link</a>" },
+    { "ar": "الصور:\n<img src=\"image.jpg\">", "en": "Images:\n<img src=\"image.jpg\">" },
+    { "ar": "القوائم:\n<ul><li>عنصر</li></ul>", "en": "Lists:\n<ul><li>Item</li></ul>" },
+    { "ar": "الجداول:\n<table><tr><td>بيان</td></tr></table>", "en": "Tables:\n<table><tr><td>Data</td></tr></table>" },
+    { "ar": "النماذج:\n<form></form>", "en": "Forms:\n<form></form>" },
+    { "ar": "العناصر المدخلة:\n<input type=\"text\">", "en": "Input Elements:\n<input type=\"text\">" }
+  ],
+  "css": [
+    { "ar": "مقدمة:\nCSS تنسق مظهر الموقع.", "en": "Introduction:\nCSS styles the appearance of a website." },
+    { "ar": "الألوان:\ncolor: red;", "en": "Colors:\ncolor: red;" },
+    { "ar": "الخط:\nfont-size: 16px;", "en": "Font size:\nfont-size: 16px;" },
+    { "ar": "الهوامش:\nmargin: 10px;", "en": "Margins:\nmargin: 10px;" },
+    { "ar": "الحشو:\npadding: 10px;", "en": "Padding:\npadding: 10px;" },
+    { "ar": "الإطارات:\nborder: 1px solid black;", "en": "Borders:\nborder: 1px solid black;" },
+    { "ar": "المحاذاة:\ntext-align: center;", "en": "Alignment:\ntext-align: center;" },
+    { "ar": "الخلفية:\nbackground-color: yellow;", "en": "Background:\nbackground-color: yellow;" },
+    { "ar": "المواقع:\nposition: absolute;", "en": "Positioning:\nposition: absolute;" },
+    { "ar": "الانتقالات:\ntransition: 0.3s;", "en": "Transitions:\ntransition: 0.3s;" }
+  ]
+}
